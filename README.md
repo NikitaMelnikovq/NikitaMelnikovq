@@ -41,9 +41,4 @@
 
 ---
 
-## 🏆 Активность:
-[![GitHub Streak](https://streak-stats.demolab.com?user=acuraels&theme=react&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ⚡ *“Великие вещи начинаются с малого. Продолжай учиться и развиваться!”*
