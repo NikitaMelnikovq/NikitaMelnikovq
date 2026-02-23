@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/pgvector-000?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="pgvector" />
 </p>
 
 ---
@@ -61,14 +62,6 @@
 - 🔍 RAG: embeddings, retrieval, chunking, reranking, оценка качества
 - 🧪 Эксперименты: выбор метрик под задачу, абляции, сравнение подходов
 - 🧰 Прод-ML: сервис вокруг модели, очереди, БД, docker, стабильность
-
----
-
-## 📊 GitHub статистика:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikitaMelnikovq&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaMelnikovq&layout=compact&theme=react&langs_count=6&hide=css" alt="Top Languages" />
-</p>
 
 ---
 
